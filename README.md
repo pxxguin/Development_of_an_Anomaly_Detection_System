@@ -4,12 +4,6 @@
   <img src="https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOGO.jpg" alt="이미지 설명" width="300" height="300">
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoomin03%2FDevelopment_of_an_Anomaly_Detection-System%2F&count_bg=%2379C83D&title_bg=%23555555&icon=jupyter.svg&icon_color=%23E7E7E7&title=ThreatLens_V2&edge_flat=True" alt="Hits">
-  </a>
-</p>
-
 
 ## ThreatLens v2.0
 
