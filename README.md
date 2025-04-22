@@ -1,7 +1,7 @@
 ## 🔍 ThreatLens_V2
 
 <p align="center">
-  <img src="https://github.com/Moomin03/Development_of_an_Anomaly_Detection-System/blob/master/LOGO.jpg" alt="이미지 설명" width="300" height="300">
+  <img src="https://github.com/Moomin03/Development_of_an_Anomaly_Detection_System/blob/main/image/LOGO.jpg" alt="이미지 설명" width="300" height="300">
 </p>
 
 
