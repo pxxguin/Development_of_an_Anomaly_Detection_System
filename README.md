@@ -89,4 +89,4 @@ ubuntu@ubuntu : ls
 
 ## ⚒️ Project Map
 
-![image](https://github.com/Moomin03/Development_of_an_Anomaly_Detection_System_V2/blob/master/image/Project_Map.png)
+![image](https://github.com/Moomin03/Development_of_an_Anomaly_Detection_System/blob/main/image/Project_Map.png)
