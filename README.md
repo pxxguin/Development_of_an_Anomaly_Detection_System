@@ -5,7 +5,7 @@
 </p>
 
 
-## ThreatLens v2.0
+## ThreatLens v2.0.0
 
 > Development of an Anomaly Detection System for Web Log Data
 >
